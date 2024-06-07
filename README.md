@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projets and Interships:</h2>
 
 - <b>Final Year Project</b>
-  - [Efficient Encryption and Decryption System](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Efficient Encryption and Decryption System](https://github.com/ashrafujjamanr/ProgrammingJourney)
 - <b>Summer Internship</b>
   - [Propagration of mm Wave](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
