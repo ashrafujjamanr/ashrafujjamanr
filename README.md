@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ashrafujjaman Raky! <br/><a href="https://github.com/ashrafujjamanr">Programmer</a>, <a href="https://www.linkedin.com/in/ashrafujjamanraky/">Android Developer</a>
+<h1>Hi, I'm Ashrafujjaman Raky! <br/><a href="https://github.com/ashrafujjamanr">Programmer</a>, <a href="https://www.linkedin.com/in/ashrafujjamanraky/"
 
 
 
