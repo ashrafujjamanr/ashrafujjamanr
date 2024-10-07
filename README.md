@@ -1,15 +1,6 @@
 <h1>Hi, I'm Ashrafujjaman Raky! <br/><a href="https://github.com/ashrafujjamanr">Programmer</a>, <a href="https://www.linkedin.com/in/ashrafujjamanraky/">Android Developer</a>
 
-<h2>👨‍💻 My Projets and Interships:</h2>
 
-- <b>Final Year Project</b>
-  - [Efficient Encryption and Decryption System](https://github.com/ashrafujjamanr/ProgrammingJourney)
-- <b>Summer Internship</b>
-  - [Propagration of mm Wave](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-
-<h2>📺 Android Development Project</h2>
-
-- [Bank Account](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
