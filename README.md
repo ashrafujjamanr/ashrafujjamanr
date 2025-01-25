@@ -10,9 +10,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://x.com/Ash_Rafujjaman
-[youtube]: https://www.youtube.com/channel/UCvIJ4xhkNoN2Q48OV0LrUAA
-[instagram]: https://www.instagram.com/ash.raf.3/
+
 [linkedin]: https://linkedin.com/in/ashrafujjamanraky/
 
 <!--
